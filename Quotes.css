@@ -1,0 +1,47 @@
+*{
+	margin : 0;
+}
+
+html,body{
+	height : 100%;
+}
+
+body{
+	background-color : #376b67;
+	background : url('back.jpg');
+	background-size : cover;
+}
+
+.quote{
+	
+	
+	color : white;
+	height : 30%;
+	width : 60%;
+	background-color :black;
+	opacity : 0.7;
+	padding-top : 30px;
+	font-size : 24px;
+	margin : auto;
+	margin-top : 150px;
+	border-radius : 10px;
+}
+
+#tweetdiv{
+		width : 60%;
+		height : 20%;
+		
+	
+}
+
+.btn{
+	
+	margin-top : 40px;
+	margin-left: 600px;
+	background-color : #1d4b5b;
+	
+	color : white;
+	size : 20px;
+	text-decoration : none;
+	cursor : pointer;
+}
